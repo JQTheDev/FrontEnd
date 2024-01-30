@@ -1,0 +1,34 @@
+
+body {
+  margin: 0 auto;
+  text-align: center;
+}
+
+header {
+  background-color: black;
+  color: white;
+  padding: 0.5rem;
+}
+
+div {
+    font-size: 12pt;
+    margin: 15px;
+    padding: 15px;
+    border: 1px solid black;
+    background-color: rgb(124, 123, 123);
+    /* This is where the information from the api call will go */
+}
+
+h1 {
+  margin: 0;
+}
+
+#largefont{
+font-size: 1.25em;
+}
+
+header section {
+    background-color: black;
+    color: white;
+    padding: 0.5rem;  
+  }
